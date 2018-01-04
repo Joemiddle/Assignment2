@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndrewAssign11</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="yesorno">Click Yes to Exit</string>
+    <string name="exittitle">Exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name">Andrew Joseph McGuire</string>
+    <string name="studentID">N01121995</string>
+    <string name="dateerror">Can\'t display date</string>
+</resources>
